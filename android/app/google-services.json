@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550811627146",
+    "project_id": "mind-mate-ed09e",
+    "storage_bucket": "mind-mate-ed09e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550811627146:android:c7d3e09b48b2ab79fd0773",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550811627146-7k5i5hla0h80vb65198dvvs3st3distc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Wx9yI1fes9693J7yPVuBr5wJDtFmLTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550811627146-7k5i5hla0h80vb65198dvvs3st3distc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
